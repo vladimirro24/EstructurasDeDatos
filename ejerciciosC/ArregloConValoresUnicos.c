@@ -23,7 +23,7 @@ int main() {
     int n = 5 ; // Tamaño del arreglo
     //printf("Ingrese la cantidad de elementos en el arreglo: ");
     //scanf("%d", &n);
-    int arreglo[]={1,2,3,4,5};
+    int arreglo[]={1,2,3,4,5900};
     /*printf("Ingrese los elementos del arreglo:\n");
     for (int i = 0; i < 5; i++) {
         scanf("%d", &arreglo[i]);
